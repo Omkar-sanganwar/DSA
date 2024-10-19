@@ -1,0 +1,116 @@
+1. Array Basics
+Find the largest/smallest element in an array.
+Find the second largest element in an array.
+Reverse an array.
+Rotate an array to the left or right by k positions.
+Find the sum of all elements in the array.
+Find the sum of a subarray with the maximum sum (Kadane’s Algorithm).
+2. Search and Sort
+Linear Search in an array. [Example provided earlier]
+Binary Search in a sorted array.
+Find the number of occurrences of an element in a sorted array.
+Find the first and last position of an element in a sorted array.
+Check if an array is sorted.
+Sort an array using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, etc.
+Count inversions in an array (Using Merge Sort).
+3. Arrangement and Rearrangement
+Rearrange the array in alternating positive and negative items.
+Rearrange the array in non-decreasing order.
+Rearrange an array such that arr[i] = i if i is present, otherwise -1.
+Rearrange the array by pushing all zeroes to the end.
+Move all negative numbers to one side of the array.
+Rearrange the array to maximize the sum of i*arr[i].
+4. Subarrays and Subsequences
+Find the subarray with the maximum sum (Kadane's Algorithm).
+Find the subarray with a given sum.
+Find all pairs in an array whose sum is equal to a given number.
+Find the longest increasing subsequence.
+Find the longest subarray with equal number of 0s and 1s in a binary array.
+Find the smallest subarray with a sum greater than a given value.
+5. Frequency and Counting
+Find all the repeating elements in an array.
+Find the first non-repeating element in an array.
+Find the element that appears more than n/2 times (Majority Element Problem).
+Find the element that appears more than n/3 times (Boyer-Moore Voting Algorithm).
+Find the smallest missing positive integer.
+Count the frequency of each element in an array.
+6. Sorting and Searching Challenges
+Find the median of two sorted arrays.
+Find the intersection and union of two sorted arrays.
+Merge two sorted arrays without extra space.
+Find a triplet in the array that sums to a given value.
+Find all quadruplets that sum to a given value.
+7. Matrix-based Questions
+Print a 2D array in spiral order.
+Search an element in a row-wise and column-wise sorted matrix.
+Find the maximum sum subarray in a 2D array.
+Rotate a matrix by 90 degrees.
+8. Miscellaneous
+Find the maximum product subarray.
+Find the next greater element for every element in an array.
+Find the next smaller element for every element in an array.
+Trap the rainwater problem (Calculate how much water can be trapped between buildings after rain).
+Find the maximum difference between two elements in an array such that the larger element appears after the smaller one.
+Important Algorithms:
+Kadane’s Algorithm: To find the maximum sum of a subarray.
+Moore’s Voting Algorithm: To find the majority element in an array.
+Merge Sort: To count the number of inversions in an array.
+Dutch National Flag Algorithm: To sort an array of 0s, 1s, and 2s.
+Advanced Questions:
+Find the minimum number of jumps to reach the end of the array.
+Find the maximum of all subarrays of size k (Sliding Window technique).
+Find the longest consecutive subsequence in an array.
+Find the smallest range that includes elements from k lists.
+Copy-paste these problem numbers for quick reference:
+Find the largest/smallest element in an array.
+Find the second largest element in an array.
+Reverse an array.
+Rotate an array to the left or right by k positions.
+Find the sum of all elements in the array.
+Find the sum of a subarray with the maximum sum (Kadane’s Algorithm).
+Linear Search in an array.
+Binary Search in a sorted array.
+Find the number of occurrences of an element in a sorted array.
+Find the first and last position of an element in a sorted array.
+Check if an array is sorted.
+Sort an array using Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, etc.
+Count inversions in an array (Using Merge Sort).
+Rearrange the array in alternating positive and negative items.
+Rearrange the array in non-decreasing order.
+Rearrange an array such that arr[i] = i if i is present, otherwise -1.
+Rearrange the array by pushing all zeroes to the end.
+Move all negative numbers to one side of the array.
+Rearrange the array to maximize the sum of i*arr[i].
+Find the subarray with the maximum sum (Kadane's Algorithm).
+Find the subarray with a given sum.
+Find all pairs in an array whose sum is equal to a given number.
+Find the longest increasing subsequence.
+Find the longest subarray with equal number of 0s and 1s in a binary array.
+Find the smallest subarray with a sum greater than a given value.
+Find all the repeating elements in an array.
+Find the first non-repeating element in an array.
+Find the element that appears more than n/2 times (Majority Element Problem).
+Find the element that appears more than n/3 times (Boyer-Moore Voting Algorithm).
+Find the smallest missing positive integer.
+Count the frequency of each element in an array.
+Find the median of two sorted arrays.
+Find the intersection and union of two sorted arrays.
+Merge two sorted arrays without extra space.
+Find a triplet in the array that sums to a given value.
+Find all quadruplets that sum to a given value.
+Print a 2D array in spiral order.
+Search an element in a row-wise and column-wise sorted matrix.
+Find the maximum sum subarray in a 2D array.
+Rotate a matrix by 90 degrees.
+Find the maximum product subarray.
+Find the next greater element for every element in an array.
+Find the next smaller element for every element in an array.
+Trap the rainwater problem.
+Find the maximum difference between two elements in an array such that the larger element appears after the smaller one.
+Kadane’s Algorithm (Maximum Sum Subarray).
+Moore’s Voting Algorithm (Majority Element).
+Dutch National Flag Algorithm.
+Find the minimum number of jumps to reach the end of the array.
+Find the maximum of all subarrays of size k.
+Find the longest consecutive subsequence in an array.
+Find the smallest range that includes elements from k lists.
